@@ -19,4 +19,4 @@
 <h2>Demo:</h2>
 <a href="https://cart-hungry.netlify.app/" target="_blank">Hungry-cart</a>
 <h3>Let's Connect🌟:</h3>
-<p>Linkedin: <a href="https://www.linkedin.com/in/hamza-ali-4502189146102032428/" target="_blank">Hamza Ali</a></p>
+<p>If you have any questions or suggestions, or if you'd like to collaborate on development projects, please don't hesitate to contact me!<br>Linkedin: <a href="https://www.linkedin.com/in/hamza-ali-4502189146102032428/" target="_blank">Hamza Ali</a><br>Mail: <a href="aaly.galy@gmail.com">Hamza aly</a></p>

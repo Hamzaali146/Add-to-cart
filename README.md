@@ -8,6 +8,7 @@
     <li>Real-time cart updates for an interactive shopping experience.</li>
     <li>Firebase integration for dynamic data storage and synchronization.</li>
     <li>Clean and responsive user interface with HTML and CSS.</li>
+    <li>User can print their list after adding items on their cart</li>
 </ul>
 <h2>Resources📚:</h1>
 <ul>
